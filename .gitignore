@@ -1,0 +1,49 @@
+# Ignore build output
+bin/
+obj/
+
+# Rider project files
+.idea/
+
+# Visual Studio Code files
+.vscode/
+
+# Paket dependencies and lock file
+paket-files/
+paket.lock
+
+# NuGet packages
+*.nupkg
+.nuget/
+packages/
+
+# User-specific files
+*.user
+*.suo
+
+# Logs
+*.log
+
+# F# specific files
+*.fsproj.user
+
+# Backup files
+*.bak
+
+# Build results
+*.dll
+*.exe
+*.pdb
+
+# Coverage files
+*.coverage
+*.coveragexml
+
+# Local history for Rider/VSCode
+.history/
+
+# ReSharper files
+_ReSharper*/
+
+# Rider settings
+.idea/
